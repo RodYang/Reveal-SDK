@@ -24,10 +24,10 @@
   ],
   "libraries": "z",
   "ios": {
-    "vendored_frameworks": "RevealServer/iOS/RevealServer.framework"
+    "vendored_frameworks": "RevealServer/iOS-Libraries/RevealServer.framework"
   },
   "tvos": {
-    "vendored_frameworks": "RevealServer/tvOS/RevealServer.framework"
+    "vendored_frameworks": "RevealServer/tvOS-Libraries/RevealServer.framework"
   },
   "xcconfig": {
     "LD_RUNPATH_SEARCH_PATHS": "$(inherited) @executable_path/Frameworks @loader_path/Frameworks"
