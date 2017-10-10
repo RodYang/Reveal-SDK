@@ -1,6 +1,6 @@
 {
   "name": "Reveal-SDK",
-  "version": "2",
+  "version": "4",
   "summary": "The Reveal SDK: Runtime view debugging for iOS & tvOS apps & extensions.",
   "description": "Reveal brings powerful runtime view debugging to iOS developers.\nPlease visit our website for more details: http://revealapp.com/",
   "homepage": "https://revealapp.com/",
