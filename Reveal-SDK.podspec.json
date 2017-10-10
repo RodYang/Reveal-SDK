@@ -9,7 +9,7 @@
   "social_media_url": "https://twitter.com/reveal_app",
   "authors": "Itty Bitty Apps Pty Ltd",
   "source": {
-    "http": "https://coding.net/u/kakukeme/p/Reveal-SDK/git/raw/master/RevealServer.zip"
+    "http": "https://coding.net/u/kakukeme/p/Reveal-SDK/git/raw/master/RevealServer-4.zip"
   },
   "platforms": {
     "ios": "8.0",
@@ -24,10 +24,10 @@
   ],
   "libraries": "z",
   "ios": {
-    "vendored_frameworks": "RevealServer/iOS-Libraries/RevealServer.framework"
+    "vendored_frameworks": "RevealServer-4/iOS/RevealServer.framework"
   },
   "tvos": {
-    "vendored_frameworks": "RevealServer/tvOS-Libraries/RevealServer.framework"
+    "vendored_frameworks": "RevealServer-4/tvOS/RevealServer.framework"
   },
   "xcconfig": {
     "LD_RUNPATH_SEARCH_PATHS": "$(inherited) @executable_path/Frameworks @loader_path/Frameworks"
